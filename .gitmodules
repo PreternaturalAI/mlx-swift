@@ -4,3 +4,5 @@
 [submodule "submodules/mlx-c"]
 	path = Source/Cmlx/mlx-c
 	url = https://github.com/preternatural-fork/mlx-c
+[submodule "Source/Cmlx/mlx"]
+	branch = ENG-1700
