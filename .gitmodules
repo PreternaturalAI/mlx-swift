@@ -1,6 +1,10 @@
 [submodule "submodules/mlx"]
 	path = Source/Cmlx/mlx
-	url = https://github.com/ml-explore/mlx
+	url = https://github.com/preternatural-fork/mlx
 [submodule "submodules/mlx-c"]
 	path = Source/Cmlx/mlx-c
-	url = https://github.com/ml-explore/mlx-c
+	url = https://github.com/preternatural-fork/mlx-c
+[submodule "Source/Cmlx/mlx"]
+	branch = ENG-1700
+[submodule "Source/Cmlx/mlx-c"]
+	branch = ENG-1700
